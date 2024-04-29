@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sharedpreferencemodellab</string>
+    <string name="switch_dark_mode_description" />
+    <string name="save_credentials_button_description" />
+</resources>
